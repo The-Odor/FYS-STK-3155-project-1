@@ -1,0 +1,37 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{The structure of the source code}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Franke function}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Ordinary Least Squares \(OLS\)}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Bias \046 Variance}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Bootstrap Resampling}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{K-fold cross-validation resampling}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.7}{Ridge}{section.1}% 8
+\BOOKMARK [2][-]{subsection.1.8}{Lasso}{section.1}% 9
+\BOOKMARK [1][-]{section.2}{Method}{}% 10
+\BOOKMARK [2][-]{subsection.2.1}{Data generation}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.2}{a\) Ordinary Least Square \(OLS\) on the Franke function}{section.2}% 12
+\BOOKMARK [2][-]{subsection.2.3}{b\)Bias-variance trade-off and resampling techniques}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.4}{c\) Cross-validation as resampling techniques, adding more complexity}{section.2}% 14
+\BOOKMARK [2][-]{subsection.2.5}{d\) Ridge Regression on the Franke function with resampling}{section.2}% 15
+\BOOKMARK [2][-]{subsection.2.6}{e\) Lasso Regression on the Franke function with resampling}{section.2}% 16
+\BOOKMARK [2][-]{subsection.2.7}{f\) Introducing real data and preparing the data analysis}{section.2}% 17
+\BOOKMARK [2][-]{subsection.2.8}{g\) OLS, Ridge and Lasso regression with resampling}{section.2}% 18
+\BOOKMARK [1][-]{section.3}{Results/Discussion}{}% 19
+\BOOKMARK [2][-]{subsection.3.1}{a\) Ordinary Least Square \(OLS\) on the Franke function}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.2}{b\) Bias-variance trade-off and resampling techniques}{section.3}% 21
+\BOOKMARK [2][-]{subsection.3.3}{c\) Cross-validation as resampling techniques, adding more complexity}{section.3}% 22
+\BOOKMARK [2][-]{subsection.3.4}{d\) Ridge Regression on the Franke function with resampling}{section.3}% 23
+\BOOKMARK [2][-]{subsection.3.5}{e\) Lasso Regression on the Franke function with resampling}{section.3}% 24
+\BOOKMARK [2][-]{subsection.3.6}{f\) Introducing real data and preparing the data analysis}{section.3}% 25
+\BOOKMARK [2][-]{subsection.3.7}{g\) OLS, Ridge and Lasso regression with resampling}{section.3}% 26
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 27
+\BOOKMARK [1][-]{section.5}{References}{}% 28
+\BOOKMARK [1][-]{section.6}{Appendix}{}% 29
+\BOOKMARK [2][-]{subsection.6.1}{Source code}{section.6}% 30
+\BOOKMARK [3][-]{subsubsection.6.1.1}{a\) Ordinary Least Square \(OLS\) on the Franke function}{subsection.6.1}% 31
+\BOOKMARK [3][-]{subsubsection.6.1.2}{b\) Bias-variance trade-off and resamplng techniques}{subsection.6.1}% 32
+\BOOKMARK [3][-]{subsubsection.6.1.3}{c\) Cross-validation as resampling techniques, adding more complexity}{subsection.6.1}% 33
+\BOOKMARK [3][-]{subsubsection.6.1.4}{d\) Ridge Regression on the Franke function with resampling}{subsection.6.1}% 34
+\BOOKMARK [3][-]{subsubsection.6.1.5}{e\) Lasso Regression on the Franke function with resampling}{subsection.6.1}% 35
+\BOOKMARK [3][-]{subsubsection.6.1.6}{f\) Introducing real data and preparing the data analysis}{subsection.6.1}% 36
+\BOOKMARK [3][-]{subsubsection.6.1.7}{g\) OLS, Ridge and Lasso regression with resampling}{subsection.6.1}% 37

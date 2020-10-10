@@ -1,0 +1,11 @@
+Task as interpreted:
+    (x) Implement lasso from scikit learn
+    ( ) Discuss the three methods (assume Lasso, Ridge, and Bootstrap (or OLS?)), and which fits the best
+    ( ) Bias-variance trade-off analysis using bootstrap and kfold
+
+Lasso evaluation [R2, MSE] at alpha = 0.01: (-0.00040418848759649073, 0.09415771032493848)
+Lasso evaluation [R2, MSE] at alpha =  0.1: (-0.0008014043714434926, 0.09901736017684995)
+Lasso evaluation [R2, MSE] at alpha =  0.3: (-6.013665053505868e-05, 0.09889216375005189)
+Lasso evaluation [R2, MSE] at alpha =    1: (-0.00011187832184433866, 0.09252839549202323)
+Lasso evaluation [R2, MSE] at alpha =    3: (-0.00013499053518417625, 0.09445379258455494)
+MSE/(bias+variance) = [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]

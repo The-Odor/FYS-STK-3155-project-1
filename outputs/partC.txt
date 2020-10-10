@@ -1,0 +1,15 @@
+Task as interpreted:
+    (X) Implement k-fold cross-validation, evaluate MSE from this
+    (X) Compare MSE from k-fold and bootstrap
+    (X) try 5-10 folds 
+    
+
+Folds/number of samples:  5
+k-fold          [R2, MSE] : [0.95563823 0.00368468]
+Bootstrap       [R2, MSE] : [0.9545114  0.00377724]
+kfold/bootstrap [R2, MSE] : [1.00118054 0.9754959 ]
+
+Folds/number of samples:  10
+k-fold          [R2, MSE] : [0.95312732 0.00396122]
+Bootstrap       [R2, MSE] : [0.9526719  0.00386939]
+kfold/bootstrap [R2, MSE] : [1.00047805 1.02373248]

@@ -1,0 +1,16 @@
+Tasks as interpreted:
+    (x) Parametrize terrain data
+    ( ) Apply all three models of [see below] to geographical data
+        ( ) OLS (k-fold)
+        ( ) Ridge (k-fold)
+        ( ) Lasso (k-fold)
+    ( ) Critically evaluate results and discuss "the applicabilty of these regression methods to the type of data presented here"
+
+
+R2: ( avg = -126.007750214505 ), ( max =  -125.28996659328048 ), ( min =  -126.63064184509612 )
+ [-125.28996659 -126.00075666 -125.99061752 -126.63064185 -126.33000825
+ -125.80451042]
+
+MSE: ( avg = 71177.81149110844 ), ( max =  71218.32821713865 ), ( min =  71113.55185997034 )
+ [71175.41435112 71218.32821714 71167.27618466 71178.49262646
+ 71213.80570729 71113.55185997]
